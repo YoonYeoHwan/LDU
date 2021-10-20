@@ -26,23 +26,23 @@ Challenges to designing a deferred update mechanism includes performing concurre
 
 ## Result
 
-##### File reverse mapping data structure
+### File reverse mapping data structure
 
 <img width="447" alt="LDU file reverse mapping " src="https://user-images.githubusercontent.com/28583545/138095367-11e2e3f6-1fc2-4760-838a-9d1bfdbfdbe0.png">
 
-##### Anonymous reverse mapping data structure
+### Anonymous reverse mapping data structure
 
 <img width="473" alt="LDU anonymous reverse mapping" src="https://user-images.githubusercontent.com/28583545/138095419-8924490b-8d35-4945-a68e-5044ddb50d0d.png">
 
-##### Running LDU example
+### Running LDU example
 
 <img width="451" alt="Running LDU example" src="https://user-images.githubusercontent.com/28583545/138095478-5959a7ba-f1d2-4423-afe2-8650a21d42ea.png">
 
-##### Stock Linux benchmark result
+### Stock Linux benchmark result
 
 <img width="631" alt="Stock linux benchmark result" src="https://user-images.githubusercontent.com/28583545/138094897-553ac15a-bcd5-4872-a204-f5487b781d9c.png">
 
-##### AIM7 multiuser benchmark result of Stock Linux and Linux applied LDU
+### AIM7 multiuser benchmark result of Stock Linux and Linux applied LDU
 
 <img width="594" alt="Stock linux and LDU linux AIM7 benchmark result" src="https://user-images.githubusercontent.com/28583545/138095535-b7b5d05d-b577-4a82-8565-15e6ba1097f0.png">
 
