@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: Copyright (c) 2016 Kookmin University
+// LDU (Log-based Deferred Update) features implemented
+// SPDX-License-Identifier: GPL-2.0-only
+
 /*
  * (C) 1997 Linus Torvalds
  * (C) 1999 Andrea Arcangeli <andrea@suse.de> (dynamic inode allocation)

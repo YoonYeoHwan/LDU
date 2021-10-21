@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: Copyright (c) 2016 Kookmin University
+// LDU (Log-based Deferred Update) features
+// SPDX-License-Identifier: GPL-2.0-only
+
 #ifndef __LINUX_DEFERABLE_UPDATE
 #define __LINUX_DEFERABLE_UPDATE
 

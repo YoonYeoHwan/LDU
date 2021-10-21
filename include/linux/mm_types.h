@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: Copyright (c) 2016 Kookmin University
+// LDU (Log-based Deferred Update) features implemented
+// SPDX-License-Identifier: GPL-2.0-only
+
 #ifndef _LINUX_MM_TYPES_H
 #define _LINUX_MM_TYPES_H
 
